@@ -7,3 +7,6 @@ I'm a huge advocate for progressive enhancement, web standards and accessibility
 I love pushing the boundaries of what HTML and CSS can achieve - especially when it comes to animations and interactivity - before introducing Javascript into the mix.
 
 I also don't shy away from back-end work when it's needed, and did my fair share of cloud infrastructure, database, server and serverless type work recently. :)
+
+<!-- [![Ericorruption's github stats](https://github-readme-stats.vercel.app/api?username=ericorruption&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericorruption)](https://github.com/anuraghazra/github-readme-stats) -->
